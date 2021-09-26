@@ -27,7 +27,7 @@ h1 {
 	color: hsl(223, 47%, 23%);
 }
 
-p {
+.description {
 	padding: 25px 5px;
 	font-size: 16px;
 	color: hsl(224, 23%, 55%);
